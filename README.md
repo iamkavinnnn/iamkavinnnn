@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Django, Node.js, React**
+- 💬 Ask me about **Python, Django, Node.js, Automation,**
 
 - 📫 How to reach me **skavin02@gmail.com**
 
-- ⚡ Fun fact **I started to code when i was 15. I started with PHP(I know boring).**
+- ⚡ Fun fact **I started to code when I was 15. I started with PHP(I know boring).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
