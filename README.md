@@ -5,18 +5,18 @@
 
 - 🔭 I’m currently working on **a customer relationship management software**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Django** and **Rust*"*
 
-- 💬 Ask me about **Python, Django, Node.js, Automation,**
+- 💬 Ask me about **Python, Django, Node.js, Automation, and Quant engineering**
 
 - 📫 How to reach me **skavin02@gmail.com**
 
-- ⚡ Fun fact **I started to code when I was 15. I started with PHP(I know boring).**
+- ⚡ Fun fact **I started to code when I was 15. I started with PHP(I know boring).** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kavin-shanmugam-5b3b0921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavin-shanmugam-5b3b0921a/" height="30" width="40" /></a>
-<a href="https://instagram.com/juizeeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juizeeeee" height="30" width="40" /></a>
+<a href="h2ttps://linkedin.com/in/https://www.linkedin.com/in/kavin-shanmugam-5b3b0921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavin-shanmugam-5b3b0921a/" height="30" width="40" /></a>
+<a href="[s.kavinnn](https://www.instagram.com/s.kavinnn/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juizeeeee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
