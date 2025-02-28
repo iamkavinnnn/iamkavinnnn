@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavin</h1>
 <h3 align="center">I build Web-applications and am proficient in Back-end development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkavinnnn&label=Profile%20views&color=0e75b6&style=flat" alt="iamkavinnnn" /> </p>
-
 - 🔭 I’m currently working on **a customer relationship management software**
 
 - 🌱 I’m currently learning **Django** and **Rust*"*
