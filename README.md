@@ -8,9 +8,6 @@
 - 💬 Ask me about **Python, Django, Node.js, Automation, and Quant engineering**
 
 - 📫 How to reach me **skavin02@gmail.com**
-
-- ⚡ Fun fact **I started to code when I was 15. I started with PHP(I know boring).** 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="h2ttps://linkedin.com/in/https://www.linkedin.com/in/kavin-shanmugam-5b3b0921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kavin-shanmugam-5b3b0921a/" height="30" width="40" /></a>
